@@ -2,7 +2,7 @@
 How to work with Github
 
 *Hello* **everyone**. What's up?
-[link to google!](http://google.com)
+[link to google!] (http://google.com)
 
 
 ## Subtitle
